@@ -1,0 +1,16 @@
+
+{
+  "name": "rpg-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp RPG",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
